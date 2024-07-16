@@ -34,8 +34,8 @@ To get started with this project, follow these steps:
 
 1. **Clone the repository**:
     ```
-    git clone https://github.com/yourusername/predicting-electrical-faults.git
-    cd predicting-electrical-faults
+    git clone https://github.com/yourusername/electrical-faults.git
+    cd electrical-faults
     ```
 
 2. **Create and activate a virtual environment**:
@@ -51,7 +51,7 @@ To get started with this project, follow these steps:
 
 ## Data
 
-The data used in this project consists of geospatial features and historical transmission line fault records. The dataset is stored in the `data/raw` directory and should be preprocessed before model training.
+The data used in this project consists of historical transmission line fault records and engineered features. The dataset is stored in the `data/raw` directory and should be preprocessed before model training.
 
 ## Methodology
 
