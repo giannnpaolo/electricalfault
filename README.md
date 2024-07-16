@@ -1,12 +1,8 @@
-Sure, here is a detailed README content for your project on predicting electrical faults:
-
----
-
 # Predicting Electrical Faults Using Machine Learning
 
 ## Overview
 
-This project aims to develop a machine learning model to accurately predict transmission line faults using real-world geospatial data. The model leverages various geospatial features to identify and predict potential faults in transmission lines, which can help in preemptive maintenance and reducing downtime.
+This project aims to develop a machine learning model to accurately predict transmission line faults. The model leverages various real world features including engineered features to identify and predict potential faults in transmission lines, which can help in preemptive maintenance and reducing downtime.
 
 ## Table of Contents
 
