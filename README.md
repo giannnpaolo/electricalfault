@@ -21,27 +21,11 @@ This project aims to develop a machine learning model to accurately predict tran
 ## Project Structure
 
 ```
-predicting-electrical-faults/
-│
-├── data/
-│   ├── raw/                     # Raw data files
-│   ├── processed/               # Processed data files
-│
-├── notebooks/
-│   ├── data_preprocessing.ipynb # Data preprocessing steps
-│   ├── exploratory_analysis.ipynb # Exploratory Data Analysis
-│   ├── model_training.ipynb     # Model training and evaluation
-│   ├── explainability.ipynb     # Model explainability analysis
-│
-├── src/
-│   ├── data_preprocessing.py    # Data preprocessing scripts
-│   ├── model.py                 # Model definition and training scripts
-│   ├── explainability.py        # Explainability analysis scripts
-│
+electrical-faults/
 ├── README.md                    # Project overview and instructions
 ├── requirements.txt             # Required Python packages
-├── LICENSE                      # License for the project
-└── setup.py                     # Setup script for packaging
+├── ML1 Project Notebook- Servanez, GPT.ipynb  # Project Notebook
+├── ML1 Project Presentation - Servanez, GPT.pdf # Project Report Presentation
 ```
 
 ## Installation
